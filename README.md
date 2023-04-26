@@ -19,8 +19,8 @@ Essa tela "Sobre" nos dá umas informações como quem fez o projeto, o link da 
 
 Essa é a tela que abre quando apertamos o botão "Consultar", e pede como parâmetro o nome da escola, e ao apertar no botão "Consultar", nessa área branca, ele retorna o nome da escola, a reclamação e a nota atribuída, caso não tenha uma reclamação para essa escola, aparece a mensagem que não foi encontrado uma reclamção para essa escola. Também temos o botão "Listar todos" que traz todas as reclamações registradas no banco de dados, e botão voltar, que volta para a tela anterior.
 
-![image](https://user-images.githubusercontent.com/121894013/234446727-b9d1b10f-c8ef-454e-8c1e-9796a2a05d3b.png) <br<
+![image](https://user-images.githubusercontent.com/121894013/234446727-b9d1b10f-c8ef-454e-8c1e-9796a2a05d3b.png) <br>
 
-##Bibliotecas utilizadas 
-https://dom4j.github.io/
-http://atxy2k.github.io/RestrictedTextField/
+##Bibliotecas utilizadas <br>
+https://dom4j.github.io/ <br>
+http://atxy2k.github.io/RestrictedTextField/ <br>
