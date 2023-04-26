@@ -1,7 +1,9 @@
 # Acessibilidade-em-acao
-![image](https://user-images.githubusercontent.com/121894013/234446516-97f433c4-c13c-491f-b1cf-03226894c78c.png)
-
-![image](https://user-images.githubusercontent.com/121894013/234446556-e950f146-58c1-489a-817c-17ac865cb0e5.png)
+<br>
+Essa é a tela de inicio, onde pede pro usuário criar sua conta <br>
+![image](https://user-images.githubusercontent.com/121894013/234446516-97f433c4-c13c-491f-b1cf-03226894c78c.png) <br>
+Ao apertar no botão entrar com o usuário e senha corretos, essa é a tela que ira sugir, se voce apertar no botão "Sair" ele te redireciona à tela de login inicial <br>
+![image](https://user-images.githubusercontent.com/121894013/234446556-e950f146-58c1-489a-817c-17ac865cb0e5.png) <br>
 
 ![image](https://user-images.githubusercontent.com/121894013/234446607-2300b71f-5244-4332-b2f7-f7bed103eb75.png)
 
